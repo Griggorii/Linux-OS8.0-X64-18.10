@@ -3,9 +3,11 @@ Linux , Ubuntu , 18.10 , iso , X64 , Gnome , Cinnamon , XFCE , Unity , Budgie , 
 
 Linux OS8.0 X64 2020 4Gb iso download : https://yadi.sk/d/oFfcNKTUS-yWzQ update 30.04.2020 fix fonts + demo upstart
 
-FIX update !
+FIX update ! Command
 
 sudo sed -i -re 's/([a-z]{2}\.)?archive.ubuntu.com|security.ubuntu.com/old-releases.ubuntu.com/g' /etc/apt/sources.list
+
+Thanks material fix updte https://forum.ubuntu.ru/index.php?topic=293317.0
 
 Proview cinnamon session video not X firefox browser https://radikal.ru/video/1O2daLIxwFw WIN+←↑→↓ window 
 
